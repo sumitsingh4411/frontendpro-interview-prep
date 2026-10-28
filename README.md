@@ -191,7 +191,11 @@ Open an issue. Pick the form that fits and it will ask for what we need:
 - [Request a feature](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=feature-request.yml): something you want the site to do.
 - [Request a question or topic](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=question-request.yml): a question you were asked, or a topic we should cover.
 
-Payment, account or privacy problems should not go in a public issue. Email [support@nextjoblist.com](mailto:support@nextjoblist.com) instead.
+Payment, account or privacy problems should not go in a public issue. Email [sumitsinghfrontend@gmail.com](mailto:sumitsinghfrontend@gmail.com) instead.
+
+## Share a question or your interview experience
+
+Were you asked a frontend question that isn't here, or did you just finish an interview? Email [sumitsinghfrontend@gmail.com](mailto:sumitsinghfrontend@gmail.com) with the question, or with how the interview went: the company, the role, each round and what was asked. You can also use the [question request form](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=question-request.yml) if you are happy to share it publicly. We never publish your name unless you ask us to.
 
 ## Free and Pro
 

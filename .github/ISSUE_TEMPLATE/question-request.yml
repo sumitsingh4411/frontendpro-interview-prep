@@ -2,6 +2,9 @@ name: Request a question or topic
 description: A question you were asked in an interview, or a topic we should cover.
 labels: [question-request]
 body:
+  - type: markdown
+    attributes:
+      value: This form is public. To share a question or a full interview experience privately, email sumitsinghfrontend@gmail.com.
   - type: textarea
     id: question
     attributes:

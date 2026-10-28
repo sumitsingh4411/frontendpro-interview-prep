@@ -4,7 +4,7 @@ labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: Thanks for reporting this. Payment, account or privacy problems should go to support@nextjoblist.com, not a public issue.
+      value: Thanks for reporting this. Payment, account or privacy problems should go to sumitsinghfrontend@gmail.com, not a public issue.
   - type: input
     id: page
     attributes:
