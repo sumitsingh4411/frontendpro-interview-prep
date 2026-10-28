@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Payment, account or privacy problem
+    url: mailto:support@nextjoblist.com
+    about: Email support privately. Please don't post these in a public issue.
+  - name: Open FrontendPro
+    url: https://frontend.nextjoblist.com
+    about: Practise frontend interview questions with tests.

@@ -1,0 +1,31 @@
+name: Report a mistake in a question
+description: A wrong answer, a failing test, a typo or an unclear problem.
+labels: [content]
+body:
+  - type: input
+    id: question
+    attributes:
+      label: Question
+      description: The link of the question.
+      placeholder: https://frontend.nextjoblist.com/questions/...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is wrong
+      options:
+        - The solution is incorrect
+        - A test is wrong or too strict
+        - The problem statement is unclear
+        - Typo or formatting
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What is wrong and what it should be. If a test fails on a correct answer, paste your code.
+    validations:
+      required: true

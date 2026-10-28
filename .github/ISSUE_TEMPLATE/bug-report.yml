@@ -1,0 +1,47 @@
+name: Report a bug
+description: Something on the site is broken or looks wrong.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting this. Payment, account or privacy problems should go to support@nextjoblist.com, not a public issue.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The link of the page where it happened.
+      placeholder: https://frontend.nextjoblist.com/questions/...
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the page
+        2. Click ...
+        3. See ...
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options: [Desktop, Phone, Tablet]
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: Chrome 130, Safari 18, Firefox ...
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot or console errors
+      description: Drag an image here, or paste errors from the browser console.

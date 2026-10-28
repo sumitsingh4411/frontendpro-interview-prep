@@ -1,0 +1,20 @@
+name: Request a feature
+description: Something you want the site to do.
+labels: [feature]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe what you need, not only the feature. For example, "I want to revise on my phone without internet".
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: How you would like it to work.
+  - type: textarea
+    id: example
+    attributes:
+      label: Anywhere that does this well?

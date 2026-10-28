@@ -1,0 +1,21 @@
+name: Request a question or topic
+description: A question you were asked in an interview, or a topic we should cover.
+labels: [question-request]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: The question or topic
+      description: Write it the way it was asked, if you can.
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company and role (optional)
+      placeholder: Flipkart, UI Engineer 2
+  - type: dropdown
+    id: round
+    attributes:
+      label: Round (optional)
+      options: [JavaScript coding, Machine coding, React, System design, DSA, Other]
