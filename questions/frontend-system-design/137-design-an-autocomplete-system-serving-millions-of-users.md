@@ -41,6 +41,6 @@ Be ready for stale responses (accept only the latest query), cache keys and inva
 
 ## Solution
 
-The full answer is free on FrontendPro: [Design an autocomplete system serving millions of users with caching and request cancellation](https://frontend.nextjoblist.com/questions/design-an-autocomplete-system-serving-millions-of-users). It has a complete design walkthrough, the rubric interviewers score against, and follow-up questions with model answers.
+The full answer is free on UIRound: [Design an autocomplete system serving millions of users with caching and request cancellation](https://frontend.nextjoblist.com/questions/design-an-autocomplete-system-serving-millions-of-users). It has a complete design walkthrough, the rubric interviewers score against, and follow-up questions with model answers.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20137%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20137%5D%20).

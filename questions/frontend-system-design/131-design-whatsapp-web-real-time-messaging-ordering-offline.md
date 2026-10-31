@@ -42,6 +42,6 @@ Expect pushback on ordering and duplicates (client ids, server sequence), reconn
 
 ## Solution
 
-The full answer is free on FrontendPro: [Design WhatsApp Web: real-time messaging, ordering, offline state and reconciliation](https://frontend.nextjoblist.com/questions/design-whatsapp-web-real-time-messaging-ordering-offline). It has a complete design walkthrough, the rubric interviewers score against, and follow-up questions with model answers.
+The full answer is free on UIRound: [Design WhatsApp Web: real-time messaging, ordering, offline state and reconciliation](https://frontend.nextjoblist.com/questions/design-whatsapp-web-real-time-messaging-ordering-offline). It has a complete design walkthrough, the rubric interviewers score against, and follow-up questions with model answers.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20131%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20131%5D%20).

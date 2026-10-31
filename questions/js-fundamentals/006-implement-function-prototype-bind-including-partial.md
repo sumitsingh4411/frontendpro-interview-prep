@@ -56,6 +56,6 @@ When the wrapper is called with `new`, the bound `this` must be ignored and the 
 
 ## Solution
 
-The full answer is free on FrontendPro: [Implement Function.prototype.bind(), including partial arguments](https://frontend.nextjoblist.com/questions/implement-function-prototype-bind-including-partial). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement Function.prototype.bind(), including partial arguments](https://frontend.nextjoblist.com/questions/implement-function-prototype-bind-including-partial). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%206%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%206%5D%20).

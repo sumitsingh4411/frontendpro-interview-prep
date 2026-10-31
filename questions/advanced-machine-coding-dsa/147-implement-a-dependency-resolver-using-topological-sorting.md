@@ -49,6 +49,6 @@ For packages, validate unknown dependencies first, take ready packages in alphab
 
 ## Solution
 
-The full answer is free on FrontendPro: [Implement a dependency resolver using topological sorting](https://frontend.nextjoblist.com/questions/implement-a-dependency-resolver-using-topological-sorting). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement a dependency resolver using topological sorting](https://frontend.nextjoblist.com/questions/implement-a-dependency-resolver-using-topological-sorting). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20147%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20147%5D%20).

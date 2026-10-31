@@ -58,6 +58,6 @@ Keyed children must move the same DOM node so input state survives. Remove props
 
 ## Solution
 
-The full answer is free on FrontendPro: [Implement a minimal React-like renderer with virtual DOM diffing and keyed reconciliation](https://frontend.nextjoblist.com/questions/implement-a-minimal-react-like-renderer-with-virtual-dom). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement a minimal React-like renderer with virtual DOM diffing and keyed reconciliation](https://frontend.nextjoblist.com/questions/implement-a-minimal-react-like-renderer-with-virtual-dom). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20111%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20111%5D%20).

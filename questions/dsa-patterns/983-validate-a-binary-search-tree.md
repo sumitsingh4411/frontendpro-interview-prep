@@ -60,6 +60,6 @@ Do not start the bounds at -Infinity and Infinity: a tree that holds Infinity is
 
 ## Solution
 
-The full answer is free on FrontendPro: [Validate a binary search tree](https://frontend.nextjoblist.com/questions/validate-a-binary-search-tree). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Validate a binary search tree](https://frontend.nextjoblist.com/questions/validate-a-binary-search-tree). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20983%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20983%5D%20).

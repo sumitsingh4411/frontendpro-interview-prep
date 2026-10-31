@@ -1,10 +1,10 @@
-# FrontendPro: frontend interview prep
+# UIRound: frontend interview prep
 
-[FrontendPro](https://frontend.nextjoblist.com) is a place to practise frontend interviews the way they actually happen: write the code in a browser editor, run real tests against it, then read a step-by-step answer and the follow-up questions an interviewer would ask next.
+[UIRound](https://frontend.nextjoblist.com) is a place to practise frontend interviews the way they actually happen: write the code in a browser editor, run real tests against it, then read a step-by-step answer and the follow-up questions an interviewer would ask next.
 
 This repository is the public home of the site. It has the free questions you can read here and solve on the site, a tour of everything the site does, and the place to **report bugs and ask for features**.
 
-<p align="center"><a href="https://frontend.nextjoblist.com/questions/implement-debounce-with-cancel-and-flush"><img src="assets/editor.png" alt="A debounce question solved in the FrontendPro editor, with all 7 tests passing" width="900"></a></p>
+<p align="center"><a href="https://frontend.nextjoblist.com/questions/implement-debounce-with-cancel-and-flush"><img src="assets/editor.png" alt="A debounce question solved in the UIRound editor, with all 7 tests passing" width="900"></a></p>
 
 ## What you can do on the site
 
@@ -186,16 +186,16 @@ Questions are grouped into tracks, from warm-ups to senior-level system design.
 
 Open an issue. Pick the form that fits and it will ask for what we need:
 
-- [Report a bug](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=bug-report.yml): something on the site is broken or looks wrong.
-- [Report a mistake in a question](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml): a wrong answer, a failing test, a typo or an unclear problem.
-- [Request a feature](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=feature-request.yml): something you want the site to do.
-- [Request a question or topic](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=question-request.yml): a question you were asked, or a topic we should cover.
+- [Report a bug](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=bug-report.yml): something on the site is broken or looks wrong.
+- [Report a mistake in a question](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml): a wrong answer, a failing test, a typo or an unclear problem.
+- [Request a feature](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=feature-request.yml): something you want the site to do.
+- [Request a question or topic](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=question-request.yml): a question you were asked, or a topic we should cover.
 
 Payment, account or privacy problems should not go in a public issue. Email [sumitsinghfrontend@gmail.com](mailto:sumitsinghfrontend@gmail.com) instead.
 
 ## Share a question or your interview experience
 
-Were you asked a frontend question that isn't here, or did you just finish an interview? Email [sumitsinghfrontend@gmail.com](mailto:sumitsinghfrontend@gmail.com) with the question, or with how the interview went: the company, the role, each round and what was asked. You can also use the [question request form](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=question-request.yml) if you are happy to share it publicly. We never publish your name unless you ask us to.
+Were you asked a frontend question that isn't here, or did you just finish an interview? Email [sumitsinghfrontend@gmail.com](mailto:sumitsinghfrontend@gmail.com) with the question, or with how the interview went: the company, the role, each round and what was asked. You can also use the [question request form](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=question-request.yml) if you are happy to share it publicly. We never publish your name unless you ask us to.
 
 ## Free and Pro
 

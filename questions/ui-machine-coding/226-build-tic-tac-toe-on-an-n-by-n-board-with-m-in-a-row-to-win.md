@@ -125,6 +125,6 @@ Convert between flat index and row/column carefully, and don't let a line wrap a
 
 ## Solution
 
-The full answer is free on FrontendPro: [Build tic-tac-toe on an N×N board with M in a row to win](https://frontend.nextjoblist.com/questions/build-tic-tac-toe-on-an-n-by-n-board-with-m-in-a-row-to-win). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Build tic-tac-toe on an N×N board with M in a row to win](https://frontend.nextjoblist.com/questions/build-tic-tac-toe-on-an-n-by-n-board-with-m-in-a-row-to-win). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20226%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20226%5D%20).

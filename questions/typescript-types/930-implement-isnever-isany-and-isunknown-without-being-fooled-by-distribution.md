@@ -57,6 +57,6 @@ A conditional type on a bare type parameter maps over a union, and never is the 
 
 ## Solution
 
-The full answer is free on FrontendPro: [Implement IsNever, IsAny and IsUnknown without being fooled by distribution](https://frontend.nextjoblist.com/questions/implement-isnever-isany-and-isunknown-without-being-fooled-by-distribution). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement IsNever, IsAny and IsUnknown without being fooled by distribution](https://frontend.nextjoblist.com/questions/implement-isnever-isany-and-isunknown-without-being-fooled-by-distribution). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20930%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20930%5D%20).

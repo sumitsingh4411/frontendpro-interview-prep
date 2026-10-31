@@ -93,6 +93,6 @@ A time element needs a machine-readable datetime. Durations use the ISO form PT1
 
 ## Solution
 
-The full answer is free on FrontendPro: [Mark up a recipe page with semantic HTML only](https://frontend.nextjoblist.com/questions/mark-up-a-recipe-page-with-semantic-html-only). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Mark up a recipe page with semantic HTML only](https://frontend.nextjoblist.com/questions/mark-up-a-recipe-page-with-semantic-html-only). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20956%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20956%5D%20).

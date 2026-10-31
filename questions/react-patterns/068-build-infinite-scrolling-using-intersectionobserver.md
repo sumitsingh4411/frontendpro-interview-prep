@@ -70,6 +70,6 @@ The observer can fire many times, so guard against double loads with a ref, not 
 
 ## Solution
 
-The full answer is free on FrontendPro: [Build infinite scrolling using IntersectionObserver](https://frontend.nextjoblist.com/questions/build-infinite-scrolling-using-intersectionobserver). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Build infinite scrolling using IntersectionObserver](https://frontend.nextjoblist.com/questions/build-infinite-scrolling-using-intersectionobserver). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2068%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2068%5D%20).

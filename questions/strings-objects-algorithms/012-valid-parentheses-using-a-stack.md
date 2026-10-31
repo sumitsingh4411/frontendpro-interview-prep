@@ -54,6 +54,6 @@ A closer arriving on an empty stack is invalid, and a string like `(((` ends wit
 
 ## Solution
 
-The full answer is free on FrontendPro: [Valid parentheses using a stack](https://frontend.nextjoblist.com/questions/valid-parentheses-using-a-stack). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Valid parentheses using a stack](https://frontend.nextjoblist.com/questions/valid-parentheses-using-a-stack). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2012%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2012%5D%20).

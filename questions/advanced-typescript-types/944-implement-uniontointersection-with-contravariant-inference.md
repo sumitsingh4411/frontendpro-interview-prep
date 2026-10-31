@@ -57,6 +57,6 @@ The final `extends (x: infer I) => void` check must not distribute, or you infer
 
 ## Solution
 
-The full answer is free on FrontendPro: [Implement UnionToIntersection with contravariant inference](https://frontend.nextjoblist.com/questions/implement-uniontointersection-with-contravariant-inference). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement UnionToIntersection with contravariant inference](https://frontend.nextjoblist.com/questions/implement-uniontointersection-with-contravariant-inference). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20944%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20944%5D%20).

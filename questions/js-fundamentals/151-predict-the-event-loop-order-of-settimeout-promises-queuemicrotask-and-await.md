@@ -87,6 +87,6 @@ Snippet C trips people up: returning a promise from a `then` handler makes the c
 
 ## Solution
 
-The full answer is free on FrontendPro: [Predict the event-loop order of setTimeout, promises, queueMicrotask and await](https://frontend.nextjoblist.com/questions/predict-the-event-loop-order-of-settimeout-promises-queuemicrotask-and-await). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Predict the event-loop order of setTimeout, promises, queueMicrotask and await](https://frontend.nextjoblist.com/questions/predict-the-event-loop-order-of-settimeout-promises-queuemicrotask-and-await). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20151%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20151%5D%20).

@@ -140,6 +140,6 @@ Don't fetch for an empty trimmed query, ignore responses for stale queries, wrap
 
 ## Solution
 
-The full answer is free on FrontendPro: [Build a typeahead/autocomplete with caching and keyboard support](https://frontend.nextjoblist.com/questions/build-a-typeahead-autocomplete-with-caching-and-keyboard). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Build a typeahead/autocomplete with caching and keyboard support](https://frontend.nextjoblist.com/questions/build-a-typeahead-autocomplete-with-caching-and-keyboard). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2077%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2077%5D%20).

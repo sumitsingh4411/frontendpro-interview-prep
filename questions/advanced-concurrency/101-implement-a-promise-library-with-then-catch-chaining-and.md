@@ -68,6 +68,6 @@ Settle only once, run handlers asynchronously even on settled promises, and reje
 
 ## Solution
 
-The full answer is free on FrontendPro: [Implement a Promise library with .then(), .catch(), chaining, and asynchronous handler scheduling](https://frontend.nextjoblist.com/questions/implement-a-promise-library-with-then-catch-chaining-and). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement a Promise library with .then(), .catch(), chaining, and asynchronous handler scheduling](https://frontend.nextjoblist.com/questions/implement-a-promise-library-with-then-catch-chaining-and). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
-Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/frontendpro-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20101%5D%20).
+Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20101%5D%20).
