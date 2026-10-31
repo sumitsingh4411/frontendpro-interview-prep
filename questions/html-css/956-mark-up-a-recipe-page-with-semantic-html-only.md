@@ -4,7 +4,7 @@
 **Level:** Easy  
 **Time:** about 15 minutes
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/mark-up-a-recipe-page-with-semantic-html-only)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/mark-up-a-recipe-page-with-semantic-html-only)**: free, no account needed.
 
 ## Problem
 
@@ -93,6 +93,6 @@ A time element needs a machine-readable datetime. Durations use the ISO form PT1
 
 ## Solution
 
-The full answer is free on UIRound: [Mark up a recipe page with semantic HTML only](https://frontend.nextjoblist.com/questions/mark-up-a-recipe-page-with-semantic-html-only). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Mark up a recipe page with semantic HTML only](https://uiround.com/questions/mark-up-a-recipe-page-with-semantic-html-only). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20956%5D%20).

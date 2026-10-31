@@ -5,7 +5,7 @@
 **Time:** about 35 minutes  
 **Reported at:** Rippling, Uber, Flipkart
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-maplimit-throttlepromises-with-maximum-n)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-maplimit-throttlepromises-with-maximum-n)**: free, no account needed.
 
 ## Problem
 
@@ -54,6 +54,6 @@ After a failure, no new calls may start (use a flag), a synchronous throw in `ma
 
 ## Solution
 
-The full answer is free on UIRound: [Implement mapLimit() / throttlePromises() with maximum N concurrent tasks](https://frontend.nextjoblist.com/questions/implement-maplimit-throttlepromises-with-maximum-n). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement mapLimit() / throttlePromises() with maximum N concurrent tasks](https://uiround.com/questions/implement-maplimit-throttlepromises-with-maximum-n). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2046%5D%20).

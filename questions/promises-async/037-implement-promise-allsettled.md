@@ -5,7 +5,7 @@
 **Time:** about 35 minutes  
 **Reported at:** Google, Adobe
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-promise-allsettled)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-promise-allsettled)**: free, no account needed.
 
 ## Problem
 
@@ -59,6 +59,6 @@ You never call `reject`. Both outcomes map to `{status, value}` or `{status, rea
 
 ## Solution
 
-The full answer is free on UIRound: [Implement Promise.allSettled()](https://frontend.nextjoblist.com/questions/implement-promise-allsettled). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement Promise.allSettled()](https://uiround.com/questions/implement-promise-allsettled). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2037%5D%20).

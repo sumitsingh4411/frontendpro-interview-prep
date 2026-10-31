@@ -4,7 +4,7 @@
 **Level:** Medium  
 **Time:** about 40 minutes
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-retry-with-exponential-backoff-and-jitter)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-retry-with-exponential-backoff-and-jitter)**: free, no account needed.
 
 ## Problem
 
@@ -61,6 +61,6 @@ Only retry `TypeError`, 408, 429 and 5xx by default, never other 4xx. Inject `ra
 
 ## Solution
 
-The full answer is free on UIRound: [Implement retry with exponential backoff and jitter](https://frontend.nextjoblist.com/questions/implement-retry-with-exponential-backoff-and-jitter). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement retry with exponential backoff and jitter](https://uiround.com/questions/implement-retry-with-exponential-backoff-and-jitter). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2088%5D%20).

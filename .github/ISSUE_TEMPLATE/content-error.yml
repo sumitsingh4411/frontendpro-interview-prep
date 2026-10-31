@@ -7,7 +7,7 @@ body:
     attributes:
       label: Question
       description: The link of the question.
-      placeholder: https://frontend.nextjoblist.com/questions/...
+      placeholder: https://uiround.com/questions/...
     validations:
       required: true
   - type: dropdown

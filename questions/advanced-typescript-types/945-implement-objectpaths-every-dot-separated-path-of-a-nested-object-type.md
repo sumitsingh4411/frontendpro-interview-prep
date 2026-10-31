@@ -4,7 +4,7 @@
 **Level:** Hard  
 **Time:** about 50 minutes
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-objectpaths-every-dot-separated-path-of-a-nested-object-type)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-objectpaths-every-dot-separated-path-of-a-nested-object-type)**: free, no account needed.
 
 ## Problem
 
@@ -63,6 +63,6 @@ Decide what a leaf is before you recurse. Arrays, functions and Date are objects
 
 ## Solution
 
-The full answer is free on UIRound: [Implement ObjectPaths: every dot-separated path of a nested object type](https://frontend.nextjoblist.com/questions/implement-objectpaths-every-dot-separated-path-of-a-nested-object-type). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement ObjectPaths: every dot-separated path of a nested object type](https://uiround.com/questions/implement-objectpaths-every-dot-separated-path-of-a-nested-object-type). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20945%5D%20).

@@ -5,7 +5,7 @@
 **Time:** about 35 minutes  
 **Reported at:** Flipkart, Tata 1mg, Zepto, Amazon, Adobe
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-promise-all-from-scratch)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-promise-all-from-scratch)**: free, no account needed.
 
 ## Problem
 
@@ -57,6 +57,6 @@ Count completions instead of checking array length, since holes mislead. An empt
 
 ## Solution
 
-The full answer is free on UIRound: [Implement Promise.all() from scratch](https://frontend.nextjoblist.com/questions/implement-promise-all-from-scratch). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement Promise.all() from scratch](https://uiround.com/questions/implement-promise-all-from-scratch). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2036%5D%20).

@@ -5,7 +5,7 @@
 **Time:** about 15 minutes  
 **Reported at:** Rippling, Salesforce, Walmart Global Tech, Flipkart
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-function-prototype-bind-including-partial)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-function-prototype-bind-including-partial)**: free, no account needed.
 
 ## Problem
 
@@ -56,6 +56,6 @@ When the wrapper is called with `new`, the bound `this` must be ignored and the 
 
 ## Solution
 
-The full answer is free on UIRound: [Implement Function.prototype.bind(), including partial arguments](https://frontend.nextjoblist.com/questions/implement-function-prototype-bind-including-partial). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement Function.prototype.bind(), including partial arguments](https://uiround.com/questions/implement-function-prototype-bind-including-partial). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%206%5D%20).

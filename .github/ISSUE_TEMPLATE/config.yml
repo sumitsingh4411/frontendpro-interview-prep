@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
   - name: Payment, account or privacy problem
-    url: https://frontend.nextjoblist.com/contact
+    url: https://uiround.com/contact
     about: Email sumitsinghfrontend@gmail.com privately. Please don't post these in a public issue.
   - name: Share your interview experience privately
-    url: https://frontend.nextjoblist.com/contact
+    url: https://uiround.com/contact
     about: Email sumitsinghfrontend@gmail.com the company, role, rounds and questions. We never publish your name unless you ask.
   - name: Open UIRound
-    url: https://frontend.nextjoblist.com
+    url: https://uiround.com
     about: Practise frontend interview questions with tests.

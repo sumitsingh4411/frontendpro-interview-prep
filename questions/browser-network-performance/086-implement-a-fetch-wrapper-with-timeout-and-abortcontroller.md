@@ -4,7 +4,7 @@
 **Level:** Medium  
 **Time:** about 35 minutes
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-a-fetch-wrapper-with-timeout-and-abortcontroller)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-a-fetch-wrapper-with-timeout-and-abortcontroller)**: free, no account needed.
 
 ## Problem
 
@@ -58,6 +58,6 @@ Clear the timer and remove the listener on the caller's signal in `finally`, and
 
 ## Solution
 
-The full answer is free on UIRound: [Implement a fetch wrapper with timeout and AbortController](https://frontend.nextjoblist.com/questions/implement-a-fetch-wrapper-with-timeout-and-abortcontroller). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement a fetch wrapper with timeout and AbortController](https://uiround.com/questions/implement-a-fetch-wrapper-with-timeout-and-abortcontroller). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2086%5D%20).

@@ -5,7 +5,7 @@
 **Time:** about 35 minutes  
 **Reported at:** CRED, Adobe
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/build-search-as-you-type-with-debounce-and-abortcontroller)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/build-search-as-you-type-with-debounce-and-abortcontroller)**: free, no account needed.
 
 ## Problem
 
@@ -75,6 +75,6 @@ Trim the query and clear results for an empty one without a request. Ignore `Abo
 
 ## Solution
 
-The full answer is free on UIRound: [Build search-as-you-type with debounce and AbortController](https://frontend.nextjoblist.com/questions/build-search-as-you-type-with-debounce-and-abortcontroller). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Build search-as-you-type with debounce and AbortController](https://uiround.com/questions/build-search-as-you-type-with-debounce-and-abortcontroller). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2066%5D%20).

@@ -5,7 +5,7 @@
 **Time:** about 35 minutes  
 **Reported at:** Rippling, Razorpay, Adobe
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-throttle-with-leading-and-trailing-options)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-throttle-with-leading-and-trailing-options)**: free, no account needed.
 
 ## Problem
 
@@ -58,6 +58,6 @@ A trailing call begins a new waiting period so calls are never closer than `wait
 
 ## Solution
 
-The full answer is free on UIRound: [Implement throttle() with leading and trailing options](https://frontend.nextjoblist.com/questions/implement-throttle-with-leading-and-trailing-options). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement throttle() with leading and trailing options](https://uiround.com/questions/implement-throttle-with-leading-and-trailing-options). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%2027%5D%20).

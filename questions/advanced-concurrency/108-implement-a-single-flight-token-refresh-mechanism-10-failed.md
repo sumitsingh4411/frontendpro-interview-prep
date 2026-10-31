@@ -4,7 +4,7 @@
 **Level:** Hard  
 **Time:** about 60 minutes
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-a-single-flight-token-refresh-mechanism-10-failed)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-a-single-flight-token-refresh-mechanism-10-failed)**: free, no account needed.
 
 ## Problem
 
@@ -54,6 +54,6 @@ A request that failed with an already replaced token retries without refreshing.
 
 ## Solution
 
-The full answer is free on UIRound: [Implement a single-flight token refresh mechanism: 10 failed requests trigger only one refresh, followed by safe retries](https://frontend.nextjoblist.com/questions/implement-a-single-flight-token-refresh-mechanism-10-failed). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement a single-flight token refresh mechanism: 10 failed requests trigger only one refresh, followed by safe retries](https://uiround.com/questions/implement-a-single-flight-token-refresh-mechanism-10-failed). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20108%5D%20).

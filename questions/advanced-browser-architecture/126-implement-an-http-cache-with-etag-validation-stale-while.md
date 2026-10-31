@@ -4,7 +4,7 @@
 **Level:** Hard  
 **Time:** about 75 minutes
 
-**[Solve it in the browser with tests](https://frontend.nextjoblist.com/questions/implement-an-http-cache-with-etag-validation-stale-while)**: free, no account needed.
+**[Solve it in the browser with tests](https://uiround.com/questions/implement-an-http-cache-with-etag-validation-stale-while)**: free, no account needed.
 
 ## Problem
 
@@ -54,6 +54,6 @@ A 304 keeps the body and resets its age. Never cache `no-store` or non-200 respo
 
 ## Solution
 
-The full answer is free on UIRound: [Implement an HTTP cache with ETag validation, stale-while-revalidate, and request deduplication](https://frontend.nextjoblist.com/questions/implement-an-http-cache-with-etag-validation-stale-while). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
+The full answer is free on UIRound: [Implement an HTTP cache with ETag validation, stale-while-revalidate, and request deduplication](https://uiround.com/questions/implement-an-http-cache-with-etag-validation-stale-while). It has a tested solution, a step-by-step explanation, edge cases, follow-up questions with model answers, and the tests to run your own code against.
 
 Found a mistake in this question? [Report it](https://github.com/sumitsingh4411/uiround-interview-prep/issues/new?template=content-error.yml&title=%5BQuestion%20126%5D%20).
